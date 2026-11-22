@@ -6,8 +6,8 @@ from pathlib import Path
 TEXT = (
     "You have read a thousand voices today, and none of them asked how you are. "
     "This one does not ask either. It only leaves a lamp on, a chair pulled out, "
-    "a cup gone warm beside it \u2014 and the evening, unhurried, waiting with you "
-    "a while, asking nothing back."
+    "a cup gone warm beside it \u2014 and the evening, unhurried, settling in "
+    "beside you, staying a while, saying nothing at all."
 )
 
 OUTPUT = Path("/output/entry.txt")
